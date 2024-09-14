@@ -1,0 +1,11 @@
+.boton{
+    padding: 10px 20px;  /*espacio interno [vertical,horizontal]*/
+    background-color: #3498db; /* color de fondo */
+    color: white; /* color de la fuente */
+    cursor: pointer;  /*cursor*/
+    transition:background-color 0.9s ease; /*transicion...*/
+
+}
+.boton:hover{
+    background-color: skyblue;
+}

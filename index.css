@@ -1,0 +1,23 @@
+li{
+    color: black;
+}
+li[data-type="frutas"] {
+    background-color: lightgreen;
+}
+
+li[data-type="verduras"] {
+    background-color: orange;
+}
+
+
+body, html{
+    height: 100%;
+    margin: 0;
+    height: 100vh;
+    
+}
+
+
+
+
+
